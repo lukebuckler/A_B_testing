@@ -73,17 +73,17 @@ ab-testing-analysis/
 ## Key Findings
 
 1. Conversion Metrics
-   - CTR: Test group showed X% improvement
-   - Conversion Rate: Y% increase in test group
+   - CTR: Test group showed 66% improvement
+   - Conversion Rate: 12.06% decrease in test group
    - Statistical significance: p-value < 0.05
 
 2. Cost Efficiency
-   - CPA reduction: Z%
-   - ROI improvement: W%
+   - CPA reduction: -8.59%
+   - ROI improvement: -8.7%
 
 3. User Behavior
-   - Higher engagement metrics in test group
-   - Improved funnel progression rates
+   - Higher engagement metrics in control group
+   - Worse funnel progression rates
 
 ## Visualization Types
 
@@ -113,19 +113,3 @@ ab-testing-analysis/
    - Automated reporting
    - Real-time monitoring
    - A/B test size calculator
-
-## Contributing
-
-1. Fork repository
-2. Create feature branch
-3. Submit pull request
-
-## License
-
-MIT License
-
-## Contact
-
-Your Name
-[your.email@example.com]
-Project Link: [https://github.com/yourusername/ab-testing-analysis]
